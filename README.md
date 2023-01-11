@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boyce Poleon, Jr (@bpoleonjr)
 - 👀 I’m a professional web developer and bitcoin enthusiast.
-- 🌱 Currently learning everything I can about the Firebase platform.
-- 💞️ I’m searching for digital marketing and sales professionals to collaborate on a Saas platform.
-- 📫 You can reach out to me via calendly on my personal website: https://boyce.pro
+- 🌱 Currently learning everything I can about the Firebase abd OpenAI platforms.
+- 💞️ I’m searching for digital marketing, sales, and product development professionals to collaborate on a Saas platform.
+- 📫 You can reach out to me via twitter (@BoycePoleonJr) or calendly on my [personal website](https://boyce.pro)
