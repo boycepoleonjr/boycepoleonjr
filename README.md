@@ -1,4 +1,4 @@
-👋 Hi, I’m Boyce Poleon, Jr. (twitter: @BoycePoleonJr)
+👋 Hi, I’m Boyce Poleon, Jr. (x: @BoycePoleonJr)
 
 👀 I am a full-stack web developer with over 5 years of experience in developing and delivering enterprise level web applications. I am proficiency in Angular, Vue, Node.js, .NET Framework/Core, MS-SQL, Oracle DB, Firebase, Typescript, and HTML/CSS.
 
