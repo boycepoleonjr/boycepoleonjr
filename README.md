@@ -4,6 +4,6 @@
 
 🌱 Currently learning everything I can about the Firebase and OpenAI platforms, with the goal of incorporating these technologies into my personal projects.
 
-💞️ I am searching for digital marketing, sales, and product development professionals to collaborate on a Saas platform. If this interests you, please check out my portfolio: https://boyce.pro/portfolio.
+💞️ I am searching for digital marketing, sales, and product development professionals to collaborate on a Saas platform. If this interests you, contact me via your favorite SM platform or through my website: https://boyce.pro/.
 
 📫 Please don't hesitate to reach out to me via social media or schedule a call with me through this calendar link: https://boyce.pro/calendar
